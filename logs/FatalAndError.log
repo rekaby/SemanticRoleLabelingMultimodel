@@ -1,0 +1,1069 @@
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:17,578 ERROR:  - argumentIDs.get(i)34 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:17,579 ERROR:  - argumentIDs.get(i)44 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:17,580 ERROR:  - argumentIDs.get(i)46 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:17,620 ERROR:  - argumentIDs.get(i)2 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:17,621 ERROR:  - argumentIDs.get(i)4 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:17,663 ERROR:  - argumentIDs.get(i)5 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:17,664 ERROR:  - argumentIDs.get(i)9 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:17,703 ERROR:  - argumentIDs.get(i)8 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:17,704 ERROR:  - argumentIDs.get(i)12 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:17,704 ERROR:  - argumentIDs.get(i)13 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:17,749 ERROR:  - argumentIDs.get(i)12 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:17,750 ERROR:  - argumentIDs.get(i)15 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:17,751 ERROR:  - argumentIDs.get(i)16 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:17,751 ERROR:  - argumentIDs.get(i)20 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:17,792 ERROR:  - argumentIDs.get(i)4 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:17,792 ERROR:  - argumentIDs.get(i)6 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:17,793 ERROR:  - argumentIDs.get(i)9 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:17,793 ERROR:  - argumentIDs.get(i)10 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:17,833 ERROR:  - argumentIDs.get(i)2 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:17,834 ERROR:  - argumentIDs.get(i)12 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:17,874 ERROR:  - argumentIDs.get(i)11 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:17,875 ERROR:  - argumentIDs.get(i)13 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:17,916 ERROR:  - argumentIDs.get(i)2 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:17,916 ERROR:  - argumentIDs.get(i)6 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:17,917 ERROR:  - argumentIDs.get(i)7 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:17,917 ERROR:  - argumentIDs.get(i)10 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:17,955 ERROR:  - argumentIDs.get(i)3 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:17,955 ERROR:  - argumentIDs.get(i)5 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:17,993 ERROR:  - argumentIDs.get(i)1 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:17,994 ERROR:  - argumentIDs.get(i)4 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,045 ERROR:  - argumentIDs.get(i)1 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,045 ERROR:  - argumentIDs.get(i)16 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,092 ERROR:  - argumentIDs.get(i)1 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,092 ERROR:  - argumentIDs.get(i)16 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,134 ERROR:  - argumentIDs.get(i)1 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,134 ERROR:  - argumentIDs.get(i)4 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,172 ERROR:  - argumentIDs.get(i)9 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,173 ERROR:  - argumentIDs.get(i)10 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,173 ERROR:  - argumentIDs.get(i)14 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,210 ERROR:  - argumentIDs.get(i)12 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,210 ERROR:  - argumentIDs.get(i)29 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,254 ERROR:  - argumentIDs.get(i)7 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,291 ERROR:  - argumentIDs.get(i)3 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,291 ERROR:  - argumentIDs.get(i)12 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,291 ERROR:  - argumentIDs.get(i)15 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,337 ERROR:  - argumentIDs.get(i)1 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,337 ERROR:  - argumentIDs.get(i)4 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,337 ERROR:  - argumentIDs.get(i)5 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,372 ERROR:  - argumentIDs.get(i)12 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,373 ERROR:  - argumentIDs.get(i)17 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,373 ERROR:  - argumentIDs.get(i)19 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,373 ERROR:  - argumentIDs.get(i)23 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,374 ERROR:  - argumentIDs.get(i)29 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,374 ERROR:  - argumentIDs.get(i)30 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,519 ERROR:  - argumentIDs.get(i)12 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,536 ERROR:  - argumentIDs.get(i)16 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,573 ERROR:  - argumentIDs.get(i)29 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,573 ERROR:  - argumentIDs.get(i)32 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,608 ERROR:  - argumentIDs.get(i)3 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,645 ERROR:  - argumentIDs.get(i)3 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,645 ERROR:  - argumentIDs.get(i)4 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,645 ERROR:  - argumentIDs.get(i)5 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,645 ERROR:  - argumentIDs.get(i)7 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,645 ERROR:  - argumentIDs.get(i)8 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,681 ERROR:  - argumentIDs.get(i)7 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,681 ERROR:  - argumentIDs.get(i)10 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,681 ERROR:  - argumentIDs.get(i)13 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,722 ERROR:  - argumentIDs.get(i)1 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,723 ERROR:  - argumentIDs.get(i)6 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,757 ERROR:  - argumentIDs.get(i)22 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,757 ERROR:  - argumentIDs.get(i)23 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,757 ERROR:  - argumentIDs.get(i)24 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,757 ERROR:  - argumentIDs.get(i)26 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,758 ERROR:  - argumentIDs.get(i)31 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,797 ERROR:  - argumentIDs.get(i)33 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,801 ERROR:  - argumentIDs.get(i)41 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,802 ERROR:  - argumentIDs.get(i)43 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,802 ERROR:  - argumentIDs.get(i)44 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,840 ERROR:  - argumentIDs.get(i)8 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,840 ERROR:  - argumentIDs.get(i)11 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,841 ERROR:  - argumentIDs.get(i)13 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,876 ERROR:  - argumentIDs.get(i)43 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,877 ERROR:  - argumentIDs.get(i)46 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,877 ERROR:  - argumentIDs.get(i)49 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,921 ERROR:  - argumentIDs.get(i)4 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,922 ERROR:  - argumentIDs.get(i)21 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,922 ERROR:  - argumentIDs.get(i)27 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,957 ERROR:  - argumentIDs.get(i)32 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,957 ERROR:  - argumentIDs.get(i)34 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:18,957 ERROR:  - argumentIDs.get(i)37 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:19,002 ERROR:  - argumentIDs.get(i)3 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:19,002 ERROR:  - argumentIDs.get(i)5 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:19,002 ERROR:  - argumentIDs.get(i)7 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:19,002 ERROR:  - argumentIDs.get(i)8 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:19,044 ERROR:  - argumentIDs.get(i)39 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:19,044 ERROR:  - argumentIDs.get(i)43 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:19,084 ERROR:  - argumentIDs.get(i)2 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:19,085 ERROR:  - argumentIDs.get(i)4 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:19,085 ERROR:  - argumentIDs.get(i)6 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:19,085 ERROR:  - argumentIDs.get(i)7 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:19,085 ERROR:  - argumentIDs.get(i)9 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:19,127 ERROR:  - argumentIDs.get(i)1 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:19,127 ERROR:  - argumentIDs.get(i)4 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:19,127 ERROR:  - argumentIDs.get(i)6 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:19,127 ERROR:  - argumentIDs.get(i)13 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:19,163 ERROR:  - argumentIDs.get(i)6 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:19,163 ERROR:  - argumentIDs.get(i)15 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:19,164 ERROR:  - argumentIDs.get(i)23 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:19,201 ERROR:  - argumentIDs.get(i)4 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:19,201 ERROR:  - argumentIDs.get(i)16 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:19,201 ERROR:  - argumentIDs.get(i)17 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:19,243 ERROR:  - argumentIDs.get(i)2 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:19,244 ERROR:  - argumentIDs.get(i)5 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:19,286 ERROR:  - argumentIDs.get(i)17 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:19,287 ERROR:  - argumentIDs.get(i)19 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:19,288 ERROR:  - argumentIDs.get(i)21 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:19,289 ERROR:  - argumentIDs.get(i)24 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:19,330 ERROR:  - argumentIDs.get(i)11 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:19,370 ERROR:  - argumentIDs.get(i)3 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:19,370 ERROR:  - argumentIDs.get(i)29 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:19,414 ERROR:  - argumentIDs.get(i)37 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:19,415 ERROR:  - argumentIDs.get(i)42 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-08-23 14:31:19,415 ERROR:  - argumentIDs.get(i)45 roleID-1
+ java.lang.ArrayIndexOutOfBoundsException: -1
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.getRelatedFeatures(SssaFunctions.java:452)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.combineAllRelatedFeatures(SssaFunctions.java:437)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runElementryTrainCycle(SssaFunctions.java:185)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:66)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.io.ConllReaderConll09 2017-09-18 03:50:29,450 FATAL:  - Reading input data is failed:
+ java.lang.NullPointerException
+	at uni.hamburg.inf.sssa.syntactic.DependencyInstanceConll0809.setInstIds(DependencyInstanceConll0809.java:264)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.ReadInputData(SssaFunctions.java:91)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:63)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.io.ConllReaderConll09 2017-09-18 03:50:29,494 FATAL:  - Reading input data is failed:
+ java.lang.NullPointerException
+	at uni.hamburg.inf.sssa.syntactic.DependencyInstanceConll0809.setInstIds(DependencyInstanceConll0809.java:264)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.ReadInputData(SssaFunctions.java:91)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:64)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.io.ConllReaderConll08 2017-09-18 16:23:37,994 FATAL:  - Reading input data is failed:
+ java.io.FileNotFoundException: Train_File_Path=C:\Users\Amr_Local\Desktop\Joint Parsing Papers and Data\Joint Shared Tasks 08-09\2008\conll08st\data\train\train.composed (The filename, directory name, or volume label syntax is incorrect)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at uni.hamburg.inf.sssa.io.DependencyReader.startReading(DependencyReader.java:41)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.ReadInputData(SssaFunctions.java:76)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:63)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-09-18 23:29:48,223 FATAL:  - Writing output data is failed:
+ java.io.FileNotFoundException: C:\Users\Amr_Local\Desktop\Joint Parsing Papers and Data\Joint Shared Tasks 08-09\2009\2009_conll_p2\2009_conll_p2\data\CoNLL2009-ST-English\outtest-ood2017-09-18 23:29:48.txt (The filename, directory name, or volume label syntax is incorrect)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(Unknown Source)
+	at java.io.FileOutputStream.<init>(Unknown Source)
+	at java.io.FileOutputStream.<init>(Unknown Source)
+	at java.io.FileWriter.<init>(Unknown Source)
+	at uni.hamburg.inf.sssa.io.DependencyWriter.startWriting(DependencyWriter.java:22)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.writeOutputData(SssaFunctions.java:134)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:88)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:35)
+  uni.hamburg.inf.sssa.io.ConllReaderConll09 2017-09-28 15:19:08,553 FATAL:  - Reading input data is failed:
+ java.lang.IllegalArgumentException: No enum constant uni.hamburg.inf.sssa.semantic.ContextRelationType.AM_LOC
+	at java.lang.Enum.valueOf(Unknown Source)
+	at uni.hamburg.inf.sssa.semantic.ContextRelationType.valueOf(ContextRelationType.java:1)
+	at uni.hamburg.inf.sssa.io.DependencyReader.readSemanticRelations(DependencyReader.java:87)
+	at uni.hamburg.inf.sssa.io.ConllReaderConll09.nextInstance(ConllReaderConll09.java:146)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.ReadInputData(SssaFunctions.java:93)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:67)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:37)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-10-19 14:57:57,107 FATAL:  - Writing output data is failed:
+ java.lang.IllegalThreadStateException: process has not exited
+	at java.lang.ProcessImpl.exitValue(Unknown Source)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.writeOutputData(SssaFunctions.java:166)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runTrainCycle(SssaFunctions.java:428)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:83)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:37)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-10-19 14:58:02,318 FATAL:  - Writing output data is failed:
+ java.lang.IllegalThreadStateException: process has not exited
+	at java.lang.ProcessImpl.exitValue(Unknown Source)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.writeOutputData(SssaFunctions.java:166)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.runTrainCycle(SssaFunctions.java:428)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:83)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:37)
+  uni.hamburg.inf.sssa.io.ConllReaderConll09 2017-10-24 13:21:00,702 FATAL:  - Reading input data is failed:
+ java.io.FileNotFoundException: C:\Users\Amr_Local\Desktop\Joint Parsing Papers and Data\Joint Shared Tasks 08-09\2009\2009_conll_p2\2009_conll_p2\data\CoNLL2009-ST-English\Test-development.txt (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at uni.hamburg.inf.sssa.io.DependencyReader.startReading(DependencyReader.java:41)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.ReadInputData(SssaFunctions.java:99)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:67)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:37)
+  uni.hamburg.inf.sssa.io.ConllReaderConll09 2017-10-24 13:21:00,787 FATAL:  - Reading input data is failed:
+ java.io.FileNotFoundException: C:\Users\Amr_Local\Desktop\Joint Parsing Papers and Data\Joint Shared Tasks 08-09\2009\2009_conll_p2\2009_conll_p2\data\CoNLL2009-ST-English\Test-development2.txt (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at uni.hamburg.inf.sssa.io.DependencyReader.startReading(DependencyReader.java:41)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.ReadInputData(SssaFunctions.java:99)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:68)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:37)
+  uni.hamburg.inf.sssa.io.ConllReaderConll09 2017-10-24 14:07:25,904 FATAL:  - Reading input data is failed:
+ java.io.FileNotFoundException: C:\Users\Amr_Local\Desktop\Joint Parsing Papers and Data\Joint Shared Tasks 08-09\2009\2009_conll_p2\2009_conll_p2\data\CoNLL2009-ST-English\Test-development.txt (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at uni.hamburg.inf.sssa.io.DependencyReader.startReading(DependencyReader.java:41)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.ReadInputData(SssaFunctions.java:99)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:67)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:37)
+ 1 uni.hamburg.inf.sssa.feature.matrix.FeatureMatrixEncoder 2017-10-25 17:17:43,765 FATAL:  - Writing output data is failed:
+ java.lang.NullPointerException
+	at java.util.Calendar.setTime(Unknown Source)
+	at java.text.SimpleDateFormat.format(Unknown Source)
+	at java.text.SimpleDateFormat.format(Unknown Source)
+	at java.text.DateFormat.format(Unknown Source)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.writeOutputData(SssaFunctions.java:150)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:91)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:39)
+  uni.hamburg.inf.sssa.io.VerbNetReader 2019-06-27 02:04:00,968 FATAL:  - Reading input data is failed:
+ java.lang.NullPointerException
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.readMultiModal(SssaFunctions.java:173)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.readMultiModal(SssaFunctions.java:165)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.ReadInputData(SssaFunctions.java:121)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:72)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:41)
+ 1 uni.hamburg.inf.sssa.io.ConllReaderConll09 2019-06-27 02:17:27,572 FATAL:  - Reading input data is failed:
+ java.lang.NullPointerException
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.readMultiModal(SssaFunctions.java:165)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.ReadInputData(SssaFunctions.java:121)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:72)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:41)
+ 1 uni.hamburg.inf.sssa.io.ConllReaderConll09 2019-06-27 02:23:45,057 FATAL:  - Reading input data is failed:
+ java.lang.NullPointerException
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.readMultiModal(SssaFunctions.java:165)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.ReadInputData(SssaFunctions.java:121)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:72)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:41)
+ 1 uni.hamburg.inf.sssa.io.ConllReaderConll09 2019-10-07 16:55:10,811 FATAL:  - Reading input data is failed:
+ java.lang.CloneNotSupportedException: uni.hamburg.inf.sssa.annotater.SssaFunctions
+	at java.lang.Object.clone(Native Method)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.ReadInputData(SssaFunctions.java:139)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:75)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:42)
+ 1 uni.hamburg.inf.sssa.io.ConllReaderConll09 2019-10-07 16:55:10,889 FATAL:  - Reading input data is failed:
+ java.lang.CloneNotSupportedException: uni.hamburg.inf.sssa.annotater.SssaFunctions
+	at java.lang.Object.clone(Native Method)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.ReadInputData(SssaFunctions.java:139)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:76)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:42)
+ 1 uni.hamburg.inf.sssa.io.ConllReaderConll09 2019-10-07 17:02:57,864 FATAL:  - Reading input data is failed:
+ org.apache.commons.lang3.SerializationException: java.io.NotSerializableException: uni.hamburg.inf.sssa.semantic.ContextInstance
+	at org.apache.commons.lang3.SerializationUtils.serialize(SerializationUtils.java:140)
+	at org.apache.commons.lang3.SerializationUtils.serialize(SerializationUtils.java:154)
+	at org.apache.commons.lang3.SerializationUtils.clone(SerializationUtils.java:81)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.ReadInputData(SssaFunctions.java:139)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:75)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:42)
+Caused by: java.io.NotSerializableException: uni.hamburg.inf.sssa.semantic.ContextInstance
+	at java.io.ObjectOutputStream.writeObject0(Unknown Source)
+	at java.io.ObjectOutputStream.defaultWriteFields(Unknown Source)
+	at java.io.ObjectOutputStream.writeSerialData(Unknown Source)
+	at java.io.ObjectOutputStream.writeOrdinaryObject(Unknown Source)
+	at java.io.ObjectOutputStream.writeObject0(Unknown Source)
+	at java.io.ObjectOutputStream.writeObject(Unknown Source)
+	at org.apache.commons.lang3.SerializationUtils.serialize(SerializationUtils.java:138)
+	... 5 more
+ 1 uni.hamburg.inf.sssa.io.ConllReaderConll09 2019-10-07 22:37:37,510 FATAL:  - Reading input data is failed:
+ org.apache.commons.lang3.SerializationException: java.io.NotSerializableException: uni.hamburg.inf.sssa.semantic.SemanticRelation
+	at org.apache.commons.lang3.SerializationUtils.serialize(SerializationUtils.java:140)
+	at org.apache.commons.lang3.SerializationUtils.serialize(SerializationUtils.java:154)
+	at org.apache.commons.lang3.SerializationUtils.clone(SerializationUtils.java:81)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.ReadInputData(SssaFunctions.java:139)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:75)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:42)
+Caused by: java.io.NotSerializableException: uni.hamburg.inf.sssa.semantic.SemanticRelation
+	at java.io.ObjectOutputStream.writeObject0(Unknown Source)
+	at java.io.ObjectOutputStream.writeObject(Unknown Source)
+	at java.util.ArrayList.writeObject(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at java.io.ObjectStreamClass.invokeWriteObject(Unknown Source)
+	at java.io.ObjectOutputStream.writeSerialData(Unknown Source)
+	at java.io.ObjectOutputStream.writeOrdinaryObject(Unknown Source)
+	at java.io.ObjectOutputStream.writeObject0(Unknown Source)
+	at java.io.ObjectOutputStream.defaultWriteFields(Unknown Source)
+	at java.io.ObjectOutputStream.writeSerialData(Unknown Source)
+	at java.io.ObjectOutputStream.writeOrdinaryObject(Unknown Source)
+	at java.io.ObjectOutputStream.writeObject0(Unknown Source)
+	at java.io.ObjectOutputStream.defaultWriteFields(Unknown Source)
+	at java.io.ObjectOutputStream.writeSerialData(Unknown Source)
+	at java.io.ObjectOutputStream.writeOrdinaryObject(Unknown Source)
+	at java.io.ObjectOutputStream.writeObject0(Unknown Source)
+	at java.io.ObjectOutputStream.writeObject(Unknown Source)
+	at org.apache.commons.lang3.SerializationUtils.serialize(SerializationUtils.java:138)
+	... 5 more
+ 1 uni.hamburg.inf.sssa.io.ConllReaderConll09 2019-10-07 22:54:07,402 FATAL:  - Reading input data is failed:
+ java.lang.NullPointerException
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.enrichPredicateAssVerbNetRoles(SssaFunctions.java:196)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.ReadInputData(SssaFunctions.java:145)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:75)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:42)
+ 1 uni.hamburg.inf.sssa.io.ConllReaderConll09 2019-10-07 22:54:07,416 FATAL:  - Reading input data is failed:
+ java.lang.NullPointerException
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.enrichPredicateAssVerbNetRoles(SssaFunctions.java:196)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.ReadInputData(SssaFunctions.java:145)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:76)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:42)
+ 1 uni.hamburg.inf.sssa.io.ConllReaderConll09 2019-10-07 22:57:01,375 FATAL:  - Reading input data is failed:
+ java.lang.NullPointerException
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.enrichPredicateAssVerbNetRoles(SssaFunctions.java:197)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.ReadInputData(SssaFunctions.java:145)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:75)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:42)
+ 1 uni.hamburg.inf.sssa.io.ConllReaderConll09 2019-10-07 22:57:01,384 FATAL:  - Reading input data is failed:
+ java.lang.NullPointerException
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.enrichPredicateAssVerbNetRoles(SssaFunctions.java:197)
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.ReadInputData(SssaFunctions.java:145)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:76)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:42)
+ 1 uni.hamburg.inf.sssa.io.ConllReaderConll09 2019-10-20 20:01:22,868 FATAL:  - Reading input data is failed:
+ java.lang.NullPointerException
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.ReadInputData(SssaFunctions.java:157)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:75)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:42)
+ 1 uni.hamburg.inf.sssa.io.ConllReaderConll09 2019-10-20 20:01:22,956 FATAL:  - Reading input data is failed:
+ java.lang.NullPointerException
+	at uni.hamburg.inf.sssa.annotater.SssaFunctions.ReadInputData(SssaFunctions.java:152)
+	at uni.hamburg.inf.sssa.annotater.Main.testFullCycleTraining(Main.java:76)
+	at uni.hamburg.inf.sssa.annotater.Main.main(Main.java:42)
